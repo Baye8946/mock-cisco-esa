@@ -5,7 +5,7 @@ It mimics the behavior of a basic ESA session for educational and testing purpos
 
 ## Features
 
-- Interactive prompt with `help`, `exit`, 'status', and other mock commands
+- Interactive prompt with `help`, `exit`, `status`, and other mock commands
 - Simulates the CLI feel of Cisco ESA in a PowerShell environment
 - Easy to customize and extend
 
@@ -19,9 +19,8 @@ It mimics the behavior of a basic ESA session for educational and testing purpos
    ```powershell
 cd path\to\mock-esa-cli
 .\Mock-ESA.ps1
-```
-3. Use the CLI as you would a real device.
 
+3. Use the CLI as you would a real device.
 
 ## Requirements
 PowerShell 5.1 or PowerShell Core
