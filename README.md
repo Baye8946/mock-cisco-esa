@@ -30,7 +30,3 @@ You may need to run:
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 
-License
-
-MIT
-
