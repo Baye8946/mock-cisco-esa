@@ -23,7 +23,7 @@ cd path\to\mock-esa-cli
 3. Use the CLI as you would a real device.
 
 
-## **Requirements**
+## Requirements
 PowerShell 5.1 or PowerShell Core
 
 Execution policy that allows local scripts:
